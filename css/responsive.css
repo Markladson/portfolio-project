@@ -1,0 +1,19 @@
+/*
+    Document   : css/responsive．css
+    Created on : 2014-10-11 11:16 AM
+    Author     : markladson
+    Description:
+    Purpose of the stylesheet follows.
+    To change this template use Tools | Templates.
+*/
+
+
+/* Media queries */
+
+@media only screen and (max-width: 300px) {
+    p {
+        background-color: blue;
+    }
+}
+
+/* test media */
