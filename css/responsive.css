@@ -1,0 +1,26 @@
+/*
+    Document   : css/responsive．css
+    Created on : 2014-10-11 11:16 AM
+    Author     : markladson
+    Description:
+    Purpose of the stylesheet follows.
+    To change this template use Tools | Templates.
+*/
+
+
+/* Media queries */
+
+@media only screen and (max-width: 600px) {
+    p {
+        background-color: blue;
+    }
+    
+    .row {
+        flex-direction: column;
+        width: 100%;
+        flex-wrap: wrap;
+        display: block;
+    }
+}
+
+/* test media */
